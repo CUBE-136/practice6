@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+}
+
+.red{
+    height:256px;
+    width:256px;
+    background-color:#FF0000;
+}
+
+.blue{
+        height:256px;
+        width:256px;
+        background-color:#004EFF;
+        margin-left: 10px;
+}
+
